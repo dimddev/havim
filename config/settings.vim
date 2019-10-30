@@ -20,6 +20,7 @@ set backupdir=~/.cache/vim
 set dir=~/.cache/vim
 set history=1000
 set updatetime=7500
+set termguicolors
 
 " ***********************************************************
 " AUTOMATICALLY LEAVE INSERT MODE,

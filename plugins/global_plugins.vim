@@ -36,15 +36,6 @@ map <Leader>j <Plug>(easymotion-j)
 map <Leader>k <Plug>(easymotion-k)
 
 " ***********************************************************************************
-" POWERLINE SETUP
-Plug 'powerline/powerline',           {'rtp': 'powerline/bindings/vim/'}
-set t_Co=256
-set laststatus=2
-set term=xterm-256color
-set termencoding=utf-8
-set guifont=Ubuntu\ Mono\ derivative\
-
-" ***********************************************************************************
 " AIRLINE THEME
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
